@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "minecraft-data": "^2.99.3",
+    "mineflayer": "^3.11.2",
+    "mineflayer-pathfinder": "^1.8.0",
+    "vec3": "^0.1.7"
+  }
+}
