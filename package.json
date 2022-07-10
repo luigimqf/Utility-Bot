@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "minecraft-data": "^2.99.3",
-    "mineflayer": "^3.11.2",
-    "mineflayer-pathfinder": "^1.8.0",
+    "mineflayer": "^4.2.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-pathfinder": "^2.0.0",
+    "mineflayer-pvp": "^1.2.1",
     "vec3": "^0.1.7"
   }
 }
